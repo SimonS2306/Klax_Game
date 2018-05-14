@@ -25,6 +25,7 @@ import com.google.common.eventbus.Subscribe;
  * Start/Pause functionality not implemented
  * Exit functionality that kills all threads not implemented; this version displays an exit message but the game continues in the background
  * Gameover functionality only shows "Gameover" in the console as soon as the maximum of allowed misses is reached, but it doesn't actively kill the game
+ * Let's update some stuff
  */
 
 
